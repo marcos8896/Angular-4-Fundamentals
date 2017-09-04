@@ -32,4 +32,4 @@ To get more help on the `angular-cli` use `ng help` or go check out the [Angular
 
 ## This project was based on a Traversy Media video
 
-This is the [link](https://www.youtube.com/watch?v=KhzGSHNhnbI) to the soruce video.
+This is the [link](https://www.youtube.com/watch?v=KhzGSHNhnbI) to the source video.
